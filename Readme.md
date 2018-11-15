@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomLookUpEdit.cs](./CS/SortAndSearch_LookUpEdit/CustomLookUpEdit.cs) (VB: [CustomLookUpEdit.vb](./VB/SortAndSearch_LookUpEdit/CustomLookUpEdit.vb))
+* [Form1.cs](./CS/SortAndSearch_LookUpEdit/Form1.cs) (VB: [Form1.vb](./VB/SortAndSearch_LookUpEdit/Form1.vb))
+* [Program.cs](./CS/SortAndSearch_LookUpEdit/Program.cs) (VB: [Program.vb](./VB/SortAndSearch_LookUpEdit/Program.vb))
+<!-- default file list end -->
 # LookUpEdit.HeaderClickMode - How to work like both modes are enabled: Sorting, AutoSearch
 
 
